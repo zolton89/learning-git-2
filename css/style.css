@@ -1,0 +1,12 @@
+div {
+    position: center;
+    margin: 50px;
+    padding: 55px;
+}
+p {
+    display:block;
+    width: 135px;
+    font-size:17px;
+    text-align: center;
+    padding: 14px;px;
+}
