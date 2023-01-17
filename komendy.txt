@@ -1,10 +1,1 @@
-{
-  "elements": [
-    "html5",
-    "my-npm-package",
-    "./file",
-    {
-      /* inline metadata */
-    }
-  ]
-}
+npm exec html-validate yourfile.html
