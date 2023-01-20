@@ -1,1 +1,1 @@
-npm exec html-validate yourfile.html
+npm exec html-validate index.html
